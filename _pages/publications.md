@@ -11,10 +11,12 @@ nav_order: 2
 
 <!-- Bibsearch Feature -->
 
-{% include bib_search.liquid %}
-
 <div class="publications">
 
-{% bibliography %}
+<p>Fralick, Kaitlyn. “'Friend in Need': Cultivating Homosocial Communities in <i>Love Story Magazine</i>'s Fiction and Editorial Departments." 
+<i>The Journal of American Culture</i>, vol. 47, no. 3, 2024, pp. 199-206.</p>
+Chapman, Alison, Martin Holmes, Kaitlyn Fralick, Kailey Fuskushima, Narges Montakhabi, and Sonja Pinto. "Browse, Search, Serendipity: 
+<p>Building Approachable Digital Editions," <i>Digital Editing and Publishing in the Twenty-First Century</i>, ed. James Sullivan, 
+Scottish Universities Press, 2025, pp. 89–107.</p>
 
 </div>
