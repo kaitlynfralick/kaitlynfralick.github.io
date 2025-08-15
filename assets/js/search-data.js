@@ -445,11 +445,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
-          description: "",
-          section: "News",},{id: "news-a-simple-inline-announcement",
+            },},{id: "news-a-simple-inline-announcement",
           title: 'A simple inline announcement.',
+          description: "",
+          section: "News",},{id: "news-gave-a-paper-at-the-ends-of-prosody-princeton-prosody-archive-princeton-university-with-denae-dyck-green-book",
+          title: 'Gave a paper at The Ends of Prosody (Princeton Prosody Archive, Princeton University)...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
