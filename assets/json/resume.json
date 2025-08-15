@@ -71,11 +71,17 @@
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "Founders’ Circle Award",
+      "date": "2023",
+      "awarder": "Victorian Studies Association of Western Canada (VSAWC)",
+      "url": "https://vsawc.org/about/founders-circle-award/",
+      "summary": "The award is judged by members of the VSAWC executive, attending the conference. In 2012, VSAWC established the Founders’ Circle Award for the best paper delivered at the VSAWC conference by a graduate student or emergent scholar (up to 5 years post-graduation) for that year. Entries are evaluated according to the following criteria: quality and originality; contribution to Victorian studies; quality of writing; quality of presentation."
+    }
+        {
+      "title": "Ontario Graduate Scholarship",
+      "date": "2023",
+      "awarder": "Queen's University (via Ontario Government)",
+      "summary": "The Ontario Graduate Scholarship (OGS) program encourages excellence in graduate studies at publicly-assisted universities in Ontario. Since 1975, the OGS program has been providing merit-based scholarships to Ontario's best graduate students in all disciplines of academic study."
     }
   ],
   "certificates": [
