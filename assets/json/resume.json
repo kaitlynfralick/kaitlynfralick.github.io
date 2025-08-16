@@ -14,7 +14,7 @@
       }
     ]
   },
-    "education": [
+  "education": [
     {
       "institution": "Queen's University",
       "location": "Kingston, ON",
@@ -23,7 +23,7 @@
       "startDate": "2021",
       "endDate": "present"
     },
-   {
+    {
       "institution": "University of Victoria",
       "location": "Victoria, BC",
       "area": "Department of English Language and Literature",
@@ -47,7 +47,7 @@
       "endDate": "present",
       "summary": "Primary responsibilities include encoding poems and illustrations and overseeing a small team of encoders."
     },
-   {
+    {
       "name": "Taskforce on the Institute for Culture and Media",
       "position": "Graduate Research Assistant",
       "url": "https://www.uvic.ca/humanities/media-studies/index.php",
@@ -55,7 +55,7 @@
       "endDate": "2018",
       "summary": "Program and curriculum development."
     },
-       {
+    {
       "name": "The Yellow Nineties; The Database of Ornament",
       "position": "Research Assistant",
       "url": "https://1890s.ca/",
@@ -77,7 +77,7 @@
       "url": "https://vsawc.org/about/founders-circle-award/",
       "summary": "The award is judged by members of the VSAWC executive, attending the conference. In 2012, VSAWC established the Founders’ Circle Award for the best paper delivered at the VSAWC conference by a graduate student or emergent scholar (up to 5 years post-graduation) for that year. Entries are evaluated according to the following criteria: quality and originality; contribution to Victorian studies; quality of writing; quality of presentation."
     },
-        {
+    {
       "title": "Ontario Graduate Scholarship",
       "date": "2023",
       "awarder": "Queen's University (via Ontario Government)",
@@ -169,7 +169,10 @@
     {
       "name": "Quantum Computing",
       "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
+      "highlights": [
+        "Quantum Teleportation",
+        "Quantum Cryptography"
+      ],
       "startDate": "2018-01-01",
       "endDate": "2018-01-01",
       "url": "https://example.com"
