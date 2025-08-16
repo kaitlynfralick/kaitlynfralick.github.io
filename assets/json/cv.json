@@ -1,34 +1,17 @@
 {
 	"basics": {
-		"name": "YourFirstName YourLastName",
-		"label": "Your primary professional role",
+		"name": "Kaitlyn Fralick",
+		"label": "PhD Candidate in English Literature",
 		"picture": "FullProfileURL.jpg",
-		"email": "email@your-institution.edu",
-		"phone": "(333) 333-3333",
-		"website": "http://your-personal-website.edu",
-		"summary": "A short professional summary",
+		"email": "17kf2@queensu.ca",
 		"location": {
-			"address": "333 B Street",
-			"postalCode": "CA 94115",
-			"city": "City",
-			"countryCode": "US",
-			"region": "California"
+			"city": "Kingston, ON"
 		},
 		"profiles": [
 			{
-				"network": "Twitter",
-				"username": "username",
-				"url": "http://twitter.com/your-username"
-			},
-			{
-				"network": "github",
-				"username": "username",
-				"url": "http://github.com/your-username"
-			},
-			{
-				"network": "linkedin",
-				"username": "username",
-				"url": "https://www.linkedin.com/in/your-username/"
+				"network": "Humanities Commons",
+				"username": "kaitlynfralick",
+				"url": "https://hcommons.org/members/kaitlynfralick/"
 			}
 		]
 	},
@@ -84,32 +67,26 @@
 			]
 		}
 	],
-	"volunteer": [
-		{
-			"organization": "Organization",
-			"position": "Volunteer",
-			"website": "http://the-organization-orl.org/",
-			"startDate": "2012-01-01",
-			"endDate": "2013-01-01",
-			"summary": "Description...",
-			"highlights": [
-				"First hightlight",
-				"Second hightlight",
-				"Third hightlight"
-			]
-		}
-	],
 	"education": [
 		{
-			"institution": "University",
-			"area": "MajorOrDepartment",
+			"institution": "Queen's University",
+			"area": "English Literature and Creative Writing",
+			"startDate": "2021",
+			"endDate": "present"
+			]
+		},
+		{
+			"institution": "University of Victoria",
+			"area": "MA, English Language and Literature",
 			"studyType": "DegreesAwarded",
-			"startDate": "2011-01-01",
-			"endDate": "2013-01-01",
-			"gpa": "4.0",
-			"courses": [
-				"CourseNumber - CourseName",
-				"CourseNumber2 - CourseName2"
+			"endDate": "2021"
+			]
+		},
+	    {
+			"institution": "Toronto Metropolitan University (formerly Ryerson University)",
+			"area": "BA (Hons., with Distinction) English Language and Literature",
+			"studyType": "DegreesAwarded",
+			"endDate": "2017"
 			]
 		}
 	],
