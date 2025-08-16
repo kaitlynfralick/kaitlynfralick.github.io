@@ -1,3 +1,118 @@
+
+{
+	"basics": {
+		"name": "Kaitlyn Fralick",
+		"label": "PhD Candidate in English Literature",
+		"picture": "FullProfileURL.jpg",
+		"email": "17kf2@queensu.ca",
+		"location": {
+			"city": "Kingston, ON"
+		},
+		"profiles": [
+			{
+				"network": "Humanities Commons",
+				"username": "kaitlynfralick",
+				"url": "https://hcommons.org/members/kaitlynfralick/"
+			}
+		]
+	},
+	"education": [
+		{
+			"institution": "Queen's University",
+			"area": "English Literature and Creative Writing",
+			"startDate": "2021",
+			"endDate": "present"
+		},
+		{
+			"institution": "University of Victoria",
+			"area": "MA, English Language and Literature",
+			"studyType": "DegreesAwarded",
+			"endDate": "2021"
+		},
+	    {
+			"institution": "Toronto Metropolitan University (formerly Ryerson University)",
+			"area": "BA (Hons., with Distinction) English Language and Literature",
+			"studyType": "DegreesAwarded",
+			"endDate": "2017"
+		}
+	],
+"awards": [
+    {
+      "title": "Founders' Circle Award",
+      "date": "2023",
+      "awarder": "Victorian Studies Association of Western Canada (VSAWC)",
+      "url": "https://vsawc.org/about/founders-circle-award/",
+      "summary": "The award is judged by members of the VSAWC executive, attending the conference. In 2012, VSAWC established the Founders’ Circle Award for the best paper delivered at the VSAWC conference by a graduate student or emergent scholar (up to 5 years post-graduation) for that year. Entries are evaluated according to the following criteria: quality and originality; contribution to Victorian studies; quality of writing; quality of presentation."
+    },
+    {
+      "title": "Ontario Graduate Scholarship",
+      "date": "2023",
+      "awarder": "Queen's University",
+      "summary": "The Ontario Graduate Scholarship (OGS) program encourages excellence in graduate studies at publicly-assisted universities in Ontario. Since 1975, the OGS program has been providing merit-based scholarships to Ontario's best graduate students in all disciplines of academic study."
+    },
+    {
+      "title": "Ontario Graduate Scholarship",
+      "date": "2022",
+      "awarder": "Queen's University",
+      "summary": "The Ontario Graduate Scholarship (OGS) program encourages excellence in graduate studies at publicly-assisted universities in Ontario. Since 1975, the OGS program has been providing merit-based scholarships to Ontario's best graduate students in all disciplines of academic study."
+    },
+    {
+      "title": "Alfred Bader Graduate Fellowship in the Humanities",
+      "date": "2021",
+      "awarder": "Queen's University",
+      "summary": "Awarded on the basis of academic excellence to funding-eligible Ph. D. level students enrolled in a graduate program in the Humanities in the School of Graduate Studies and Postdoctoral Affairs."
+    }
+  ],
+	"publications": [
+		{
+			"name": "PublicationTitle1",
+			"publisher": "PublisherName1",
+			"releaseDate": "2014-10-01",
+			"website": "http://your-publication-doi.org",
+			"summary": "Description1...",
+			"authors": [
+				"FirstAuthorName",
+				"SecondAuthorName"
+			],
+			"citations": [
+				{
+					"APA": "Full-APA-Citation",
+					"MLA": "Full-MLA-Citation"
+				}
+			]
+		}
+	],
+	"presentations": [
+		{
+			"name": "Let Me Count the Ways: Toward a Literary-Computational Analysis of Victorian Sonnets",
+			"meetingName": "The Ends of Prosody",
+			"meetingLocation": "Princeton Prosody Archive, Princeton University",
+			"date": "2025-05-14",
+			"website": "https://cdh.princeton.edu/events/2025/05/the-ends-of-prosody/",
+			"presenters": [
+				"Dyck, Denae",
+				"Fralick, Kaitlyn"
+			]
+		},
+		{
+			"name": "Rewriting Fiction Across the English and Irish Press: Le Fanu’s <i>Uncle Silas</i> in the <i>Dublin University Magazine</i>",
+			"meetingName": "North American Victorian Studies Association (NAVSA): Event 2024",
+			"meetingLocation": "Concordia University, Montreal, QC",
+			"date": "2024-09-20",
+			"website": "https://www.event2024.org/conference-hubs/montreal/",
+			"presenters": [
+				"Fralick, Kaitlyn"
+			]
+		}
+	],
+
+  ]
+}
+
+
+
+
+
 - title: General Information
   type: map
   contents:
@@ -24,38 +139,25 @@
         - Description 1.
         - Description 2.
 
-- title: Experience
+- title: Research Project Contributions
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
-      description:
-        - Description 1.
-        - Description 2.
+    - title: Graduate Research Assistant
+      institution: Digital Victorian Periodical Poetry, University of Victoria
+      year: 2018-present
+      
+    - title: Graduate Research Assistant
+      institution: Taskforce on the Institute for Culture and Media [Program and Curriculum Development], University of Victoria
+      year: 2017-2018
+      
+    - title: Research Assistant
+      institution: The Yellow Nineties; The Database of Ornament, Toronto Metropolitan University (formerly Ryerson University)
+      year: 2015-2017
+      
+    - title: Web Content Assistant
+      institution: Counter Cultures, Toronto Metropolitan University (formerly Ryerson University)
+      year: 2015
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
 
 - title: Open Source Projects
   type: time_table
