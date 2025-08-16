@@ -5,12 +5,12 @@
     "image": "prof_pic.jpg",
     "email": "17kf2@queensu.ca",
     "url": "https://kaitlynfralick.github.io/",
-    "summary": "nineteenth-century literature and culture; digital humanities; periodical press",
+    "interests": "nineteenth-century literature and culture; digital humanities; periodical press; popular fiction",
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "Knowledge Commons",
+        "username": "kaitlynfralick",
+        "url": "https://hcommons.org/members/kaitlynfralick/"
       }
     ]
   },
@@ -28,14 +28,14 @@
       "location": "Victoria, BC",
       "area": "Department of English Language and Literature",
       "studyType": "MA",
-      "date": "2021",
+      "date": "2021"
     },
     {
       "institution": "Toronto Metropolitan University (formerly Ryerson University)",
       "location": "Toronto, ON",
       "area": "Department of English Language and Literature",
       "studyType": "BA (Hons., with Distinction)",
-      "date": "2017",
+      "date": "2017"
     }
   ],
   "research": [
