@@ -83,21 +83,24 @@
 	],
 	"presentations": [
 		{
-			"name": "PresentationTitle",
-			"meetingName": "PublisherName1",
-			"meetingLocation": "MeetingLocation1",
-			"date": "2014-10-01",
-			"website": "http://your-publication-doi.org",
-			"abstract": "Description1...",
+			"name": "Let Me Count the Ways: Toward a Literary-Computational Analysis of Victorian Sonnets",
+			"meetingName": "The Ends of Prosody",
+			"meetingLocation": "Princeton Prosody Archive, Princeton University",
+			"date": "2025-05-14",
+			"website": "https://cdh.princeton.edu/events/2025/05/the-ends-of-prosody/",
 			"presenters": [
-				"FirstAuthorName",
-				"SecondAuthorName"
-			],
-			"citations": [
-				{
-                    "APA": "Full-APA-Citation",
-					"MLA": "Full-MLA-Citation"
-				}
+				"Dyck, Denae",
+				"Fralick, Kaitlyn"
+			]
+		},
+		{
+			"name": "Rewriting Fiction Across the English and Irish Press: Le Fanu’s <i>Uncle Silas</i> in the <i>Dublin University Magazine</i>",
+			"meetingName": "North American Victorian Studies Association (NAVSA): Event 2024",
+			"meetingLocation": "Concordia University, Montreal, QC",
+			"date": "2024-09-20",
+			"website": "https://www.event2024.org/conference-hubs/montreal/",
+			"presenters": [
+				"Fralick, Kaitlyn"
 			]
 		}
 	],
