@@ -23,8 +23,8 @@
       institution: Toronto Metropolitan University (formerly Ryerson University)
       year: 2017
       description:
-        - Major: English Language and Literature
-        - Minor: News Studies
+        - "Major: English Language and Literature"
+        - "Minor: News Studies"
 
 - title: Research Project Contributions
   type: time_table
@@ -50,7 +50,7 @@
   contents:
     - year: 2023
       items:
-        - "[Founders' Circle Award](https://vsawc.org/about/founders-circle-award/), Victorian Studies Association of Western Canada (VSAWC)"
+        - "<a href='https://vsawc.org/about/founders-circle-award/'>Founders' Circle Award</a>, Victorian Studies Association of Western Canada (VSAWC)"
         - "Ontario Graduate Scholarship, Queen's University"
     - year: 2022
       items:
@@ -62,5 +62,5 @@
 - title: Presentations
   type: list
   contents:
-  - Dyck, Denae and Kaitlyn Fralick. "Let Me Count the Ways: Toward a Literary-Computational Analysis of Victorian Sonnets", [<i>The Ends of Prosody</i>](https://cdh.princeton.edu/events/2025/05/the-ends-of-prosody/), Princeton Prosody Archive, Princeton University, 14-17 May 2025.
-  - Fralick, Kaitlyn. "Rewriting Fiction Across the English and Irish Press: Le Fanu’s Uncle Silas in the Dublin University Magazine." [<i>Event 2024</i>](https://www.event2024.org/conference-hubs/montreal/), North American Victorian Studies Association (NAVSA), Concordia University, Montreal, QC, 20-22 Sept. 2024.
+  - Dyck, Denae and Kaitlyn Fralick. "Let Me Count the Ways: Toward a Literary-Computational Analysis of Victorian Sonnets", <a href='https://cdh.princeton.edu/events/2025/05/the-ends-of-prosody/'><i>The Ends of Prosody</i></a>, Princeton Prosody Archive, Princeton University, 14-17 May 2025.
+  - Fralick, Kaitlyn. "Rewriting Fiction Across the English and Irish Press: Le Fanu’s Uncle Silas in the Dublin University Magazine." <a href='https://www.event2024.org/conference-hubs/montreal/'><i>Event 2024</i></a>, North American Victorian Studies Association (NAVSA), Concordia University, Montreal, QC, 20-22 Sept. 2024.
