@@ -424,7 +424,7 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-gave-a-paper-at-the-2024-victorian-studies-association-of-western-canada-vsawc-conference-victorian-nature-and-artiface",
+            },},{id: "news-gave-a-paper-at-the-2024-victorian-studies-association-of-western-canada-vsawc-conference-victorian-nature-and-artifice",
           title: 'Gave a paper at the 2024 Victorian Studies Association of Western Canada (VSAWC)...',
           description: "",
           section: "News",},{id: "news-gave-a-paper-at-the-ends-of-prosody-princeton-prosody-archive-princeton-university-with-denae-dyck-green-book",
