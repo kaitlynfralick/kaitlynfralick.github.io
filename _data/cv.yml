@@ -1,118 +1,3 @@
-
-{
-	"basics": {
-		"name": "Kaitlyn Fralick",
-		"label": "PhD Candidate in English Literature",
-		"picture": "FullProfileURL.jpg",
-		"email": "17kf2@queensu.ca",
-		"location": {
-			"city": "Kingston, ON"
-		},
-		"profiles": [
-			{
-				"network": "Humanities Commons",
-				"username": "kaitlynfralick",
-				"url": "https://hcommons.org/members/kaitlynfralick/"
-			}
-		]
-	},
-	"education": [
-		{
-			"institution": "Queen's University",
-			"area": "English Literature and Creative Writing",
-			"startDate": "2021",
-			"endDate": "present"
-		},
-		{
-			"institution": "University of Victoria",
-			"area": "MA, English Language and Literature",
-			"studyType": "DegreesAwarded",
-			"endDate": "2021"
-		},
-	    {
-			"institution": "Toronto Metropolitan University (formerly Ryerson University)",
-			"area": "BA (Hons., with Distinction) English Language and Literature",
-			"studyType": "DegreesAwarded",
-			"endDate": "2017"
-		}
-	],
-"awards": [
-    {
-      "title": "Founders' Circle Award",
-      "date": "2023",
-      "awarder": "Victorian Studies Association of Western Canada (VSAWC)",
-      "url": "https://vsawc.org/about/founders-circle-award/",
-      "summary": "The award is judged by members of the VSAWC executive, attending the conference. In 2012, VSAWC established the Founders’ Circle Award for the best paper delivered at the VSAWC conference by a graduate student or emergent scholar (up to 5 years post-graduation) for that year. Entries are evaluated according to the following criteria: quality and originality; contribution to Victorian studies; quality of writing; quality of presentation."
-    },
-    {
-      "title": "Ontario Graduate Scholarship",
-      "date": "2023",
-      "awarder": "Queen's University",
-      "summary": "The Ontario Graduate Scholarship (OGS) program encourages excellence in graduate studies at publicly-assisted universities in Ontario. Since 1975, the OGS program has been providing merit-based scholarships to Ontario's best graduate students in all disciplines of academic study."
-    },
-    {
-      "title": "Ontario Graduate Scholarship",
-      "date": "2022",
-      "awarder": "Queen's University",
-      "summary": "The Ontario Graduate Scholarship (OGS) program encourages excellence in graduate studies at publicly-assisted universities in Ontario. Since 1975, the OGS program has been providing merit-based scholarships to Ontario's best graduate students in all disciplines of academic study."
-    },
-    {
-      "title": "Alfred Bader Graduate Fellowship in the Humanities",
-      "date": "2021",
-      "awarder": "Queen's University",
-      "summary": "Awarded on the basis of academic excellence to funding-eligible Ph. D. level students enrolled in a graduate program in the Humanities in the School of Graduate Studies and Postdoctoral Affairs."
-    }
-  ],
-	"publications": [
-		{
-			"name": "PublicationTitle1",
-			"publisher": "PublisherName1",
-			"releaseDate": "2014-10-01",
-			"website": "http://your-publication-doi.org",
-			"summary": "Description1...",
-			"authors": [
-				"FirstAuthorName",
-				"SecondAuthorName"
-			],
-			"citations": [
-				{
-					"APA": "Full-APA-Citation",
-					"MLA": "Full-MLA-Citation"
-				}
-			]
-		}
-	],
-	"presentations": [
-		{
-			"name": "Let Me Count the Ways: Toward a Literary-Computational Analysis of Victorian Sonnets",
-			"meetingName": "The Ends of Prosody",
-			"meetingLocation": "Princeton Prosody Archive, Princeton University",
-			"date": "2025-05-14",
-			"website": "https://cdh.princeton.edu/events/2025/05/the-ends-of-prosody/",
-			"presenters": [
-				"Dyck, Denae",
-				"Fralick, Kaitlyn"
-			]
-		},
-		{
-			"name": "Rewriting Fiction Across the English and Irish Press: Le Fanu’s <i>Uncle Silas</i> in the <i>Dublin University Magazine</i>",
-			"meetingName": "North American Victorian Studies Association (NAVSA): Event 2024",
-			"meetingLocation": "Concordia University, Montreal, QC",
-			"date": "2024-09-20",
-			"website": "https://www.event2024.org/conference-hubs/montreal/",
-			"presenters": [
-				"Fralick, Kaitlyn"
-			]
-		}
-	],
-
-  ]
-}
-
-
-
-
-
 - title: General Information
   type: map
   contents:
@@ -126,18 +11,19 @@
       institution: Queen's University (Kingston, ON)
       year: 2021-present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - English Literature and Creative Writing
+    - title: MA
+      institution: University of Victoria
+      year: 2021
       description:
-        - Description 1.
-        - Description 2.
+        - English Language and Literature
+        - Nineteenth-Century Studies Concentration
+	 - title: BA (Hons., with Distinction)
+      institution: oronto Metropolitan University (formerly Ryerson University)
+      year: 2017
+      description:
+        - Major: English Language and Literature
+        - Minor: News Studies
 
 - title: Research Project Contributions
   type: time_table
@@ -158,38 +44,22 @@
       institution: Counter Cultures, Toronto Metropolitan University (formerly Ryerson University)
       year: 2015
 
-
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
-
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2023
       items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
+    - [Founders' Circle Award](https://vsawc.org/about/founders-circle-award/), Victorian Studies Association of Western Canada (VSAWC)
+	- Ontario Graduate Scholarship, Queen's University
+    - year: 2022
       items:
-        - Max Planck Medal
+        - Ontario Graduate Scholarship, Queen's University
+    - year: 2021
+      items:
+        - Alfred Bader Graduate Fellowship in the Humanities, Queen's University
 
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
+- title: Presentations
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+  - Dyck, Denae and Kaitlyn Fralick. "Let Me Count the Ways: Toward a Literary-Computational Analysis of Victorian Sonnets", [<i>The Ends of Prosody</i>](https://cdh.princeton.edu/events/2025/05/the-ends-of-prosody/), Princeton Prosody Archive, Princeton University, 14-17 May 2025.
+  - Fralick, Kaitlyn. "Rewriting Fiction Across the English and Irish Press: Le Fanu’s Uncle Silas in the Dublin University Magazine." [<i>Event 2024</i>](https://www.event2024.org/conference-hubs/montreal/), North American Victorian Studies Association (NAVSA), Concordia University, Montreal, QC, 20-22 Sept. 2024.
