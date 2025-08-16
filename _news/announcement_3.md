@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Gave a paper at <i>The Ends of Prosody</i> (Princeton Prosody Archive, Princeton University) with Denae Dyck. :green_book:
+Gave a paper at [*The Ends of Prosody*](https://cdh.princeton.edu/events/2025/05/the-ends-of-prosody/) (Princeton Prosody Archive, Princeton University) with Denae Dyck. :green_book:
