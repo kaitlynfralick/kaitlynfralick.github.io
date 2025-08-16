@@ -12,14 +12,16 @@
       year: 2021-present
       description:
         - English Literature and Creative Writing
+		
     - title: MA
       institution: University of Victoria
       year: 2021
       description:
         - English Language and Literature
         - Nineteenth-Century Studies Concentration
-	 - title: BA (Hons., with Distinction)
-      institution: oronto Metropolitan University (formerly Ryerson University)
+
+    - title: BA (Hons., with Distinction)
+      institution: Toronto Metropolitan University (formerly Ryerson University)
       year: 2017
       description:
         - Major: English Language and Literature
@@ -49,14 +51,14 @@
   contents:
     - year: 2023
       items:
-    - [Founders' Circle Award](https://vsawc.org/about/founders-circle-award/), Victorian Studies Association of Western Canada (VSAWC)
-	- Ontario Graduate Scholarship, Queen's University
+        - "[Founders' Circle Award](https://vsawc.org/about/founders-circle-award/), Victorian Studies Association of Western Canada (VSAWC)"
+        - "Ontario Graduate Scholarship, Queen's University"
     - year: 2022
       items:
-        - Ontario Graduate Scholarship, Queen's University
+        - "Ontario Graduate Scholarship, Queen's University"
     - year: 2021
       items:
-        - Alfred Bader Graduate Fellowship in the Humanities, Queen's University
+        - "Alfred Bader Graduate Fellowship in the Humanities, Queen's University"
 
 - title: Presentations
   type: list
