@@ -7,16 +7,54 @@ nav: true
 nav_order: 2
 ---
 
-<!-- _pages/publications.md -->
+# based on https://distresssignal.org/busting-css-cache-with-jekyll-md5-hash
+# https://gist.github.com/BryanSchuetz/2ee8c115096d7dd98f294362f6a667db
+module Jekyll
+  module CacheBust
+    class CacheDigester
+      require 'digest/md5'
+      require 'pathname'
 
-<!-- Bibsearch Feature -->
+      attr_accessor :file_name, :directory
 
-<div class="publications">
+      def initialize(file_name:, directory: nil)
+        self.file_name = file_name
+        self.directory = directory
+      end
 
-<p>Fralick, Kaitlyn. “'Friend in Need': Cultivating Homosocial Communities in <i>Love Story Magazine</i>'s Fiction and Editorial Departments." 
-<i>The Journal of American Culture</i>, vol. 47, no. 3, 2024, pp. 199-206.</p>
-Chapman, Alison, Martin Holmes, Kaitlyn Fralick, Kailey Fuskushima, Narges Montakhabi, and Sonja Pinto. "Browse, Search, Serendipity: 
-<p>Building Approachable Digital Editions," <i>Digital Editing and Publishing in the Twenty-First Century</i>, ed. James Sullivan, 
-Scottish Universities Press, 2025, pp. 89–107.</p>
+      def digest!
+        [file_name, '?', Digest::MD5.hexdigest(file_contents)].join
+      end
 
-</div>
+      private
+
+      def directory_files_content
+        target_path = File.join(directory, '**', '*')
+        Dir[target_path].map{|f| File.read(f) unless File.directory?(f) }.join
+      end
+
+      def file_content
+        local_file_name = file_name.slice((file_name.index('assets/')..-1))
+        File.read(local_file_name)
+      end
+
+      def file_contents
+        is_directory? ? file_content : directory_files_content
+      end
+
+      def is_directory?
+        directory.nil?
+      end
+    end
+
+    def bust_file_cache(file_name)
+      CacheDigester.new(file_name: file_name, directory: nil).digest!
+    end
+
+    def bust_css_cache(file_name)
+      CacheDigester.new(file_name: file_name, directory: 'assets/_sass').digest!
+    end
+  end
+end
+
+Liquid::Template.register_filter(Jekyll::CacheBust)
