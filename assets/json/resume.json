@@ -80,8 +80,20 @@
     {
       "title": "Ontario Graduate Scholarship",
       "date": "2023",
-      "awarder": "Queen's University (via Ontario Government)",
+      "awarder": "Queen's University",
       "summary": "The Ontario Graduate Scholarship (OGS) program encourages excellence in graduate studies at publicly-assisted universities in Ontario. Since 1975, the OGS program has been providing merit-based scholarships to Ontario's best graduate students in all disciplines of academic study."
+    },
+    {
+      "title": "Ontario Graduate Scholarship",
+      "date": "2022",
+      "awarder": "Queen's University",
+      "summary": "The Ontario Graduate Scholarship (OGS) program encourages excellence in graduate studies at publicly-assisted universities in Ontario. Since 1975, the OGS program has been providing merit-based scholarships to Ontario's best graduate students in all disciplines of academic study."
+    },
+    {
+      "title": "Alfred Bader Graduate Fellowship in the Humanities",
+      "date": "2021",
+      "awarder": "Queen's University",
+      "summary": "Awarded on the basis of academic excellence to funding-eligible Ph. D. level students enrolled in a graduate program in the Humanities in the School of Graduate Studies and Postdoctoral Affairs."
     }
   ],
   "certificates": [
