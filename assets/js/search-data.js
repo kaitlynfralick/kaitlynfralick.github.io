@@ -419,8 +419,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-green-book-gave-a-paper-at-the-2024-victorian-studies-association-of-western-canada-vsawc-conference-victorian-nature-and-artifice",
-          title: ':green_book: Gave a paper at the 2024 Victorian Studies Association of Western Canada...',
+            },},{id: "news-green-book-gave-a-paper-at-the-victorian-studies-association-of-western-canada-vsawc-conference-victorian-nature-and-artifice",
+          title: ':green_book: Gave a paper at the Victorian Studies Association of Western Canada (VSAWC)...',
           description: "",
           section: "News",},{id: "news-closed-book-article-on-love-story-magazine-published-in-the-journal-of-american-culture-https-books-sup-ac-uk-sup-catalog-book-sup-9781917341073",
           title: ':closed_book: Article on Love Story Magazine published in *(The Journal of American Culture)[https://books.sup.ac.uk/sup/catalog/book/sup-9781917341073)....',
