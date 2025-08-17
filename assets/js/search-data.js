@@ -419,8 +419,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-gave-a-paper-at-the-2024-victorian-studies-association-of-western-canada-vsawc-conference-victorian-nature-and-artifice-green-book",
-          title: 'Gave a paper at the 2024 Victorian Studies Association of Western Canada (VSAWC)...',
+            },},{id: "news-green-book-gave-a-paper-at-the-2024-victorian-studies-association-of-western-canada-vsawc-conference-victorian-nature-and-artifice",
+          title: ':green_book: Gave a paper at the 2024 Victorian Studies Association of Western Canada...',
           description: "",
           section: "News",},{id: "news-gave-a-paper-at-the-north-american-victorian-studies-association-navsa-conference-event-2024-green-book",
           title: 'Gave a paper at the North American Victorian Studies Association (NAVSA) conference: EVENT...',
