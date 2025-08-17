@@ -419,11 +419,6 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
             },},{id: "news-gave-a-paper-at-the-2024-victorian-studies-association-of-western-canada-vsawc-conference-victorian-nature-and-artifice-green-book",
           title: 'Gave a paper at the 2024 Victorian Studies Association of Western Canada (VSAWC)...',
           description: "",
