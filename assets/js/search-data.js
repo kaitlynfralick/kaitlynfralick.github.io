@@ -423,7 +423,7 @@ ninja.data = [{
           title: ':green_book: Gave a paper at the Victorian Studies Association of Western Canada (VSAWC)...',
           description: "",
           section: "News",},{id: "news-closed-book-article-on-love-story-magazine-published-in-the-journal-of-american-culture",
-          title: ':closed_book: Article on Love Story Magazine published in *The Journal of American Culture....',
+          title: ':closed_book: Article on Love Story Magazine published in The Journal of American Culture....',
           description: "",
           section: "News",},{id: "news-green-book-gave-a-paper-at-the-north-american-victorian-studies-association-navsa-conference-event-2024",
           title: ':green_book: Gave a paper at the North American Victorian Studies Association (NAVSA) conference:...',
