@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-:green_book: Gave a paper at the Victorian Studies Association of Western Canada (VSAWC) conference: [*Victorian Nature and Artifice*](https://sites.google.com/ualberta.ca/vsawc2024/home).
+:green_book: Presented "Maternity and Maternal Loss: Navigating Pregnant Bodies in the Mid-Century Victorian Novel" at [*Victorian Nature and Artifice*](https://sites.google.com/ualberta.ca/vsawc2024/home), Victorian Studies Association of Western Canada (VSAWC).
