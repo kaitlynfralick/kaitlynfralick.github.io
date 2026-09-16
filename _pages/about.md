@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Literary Scholar.
+subtitle: Nineteenth-Century Literature | Print Culture | Digital Humanities
 
 profile:
   align: right
