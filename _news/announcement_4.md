@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-:green_book: Gave a paper at the North American Victorian Studies Association (NAVSA) conference: [*EVENT 2024*](https://www.event2024.org/conference-hubs/montreal/).
+:green_book: Presented "Rewriting Fiction Across the English and Irish Press: Le Fanu’s <i>Uncle Silas</i> in the <i>Dublin University Magazine</i>" at [*EVENT 2024*](https://www.event2024.org/conference-hubs/montreal/), North American Victorian Studies Association (NAVSA).
