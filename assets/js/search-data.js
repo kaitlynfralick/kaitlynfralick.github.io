@@ -393,7 +393,10 @@ ninja.data = [{
             window.location.href = "/blog/2015/formatting-and-links/";
           
         },
-      },{id: "news-green-book-presented-maternity-and-maternal-loss-navigating-pregnant-bodies-in-the-mid-century-victorian-novel-at-victorian-nature-and-artifice-victorian-studies-association-of-western-canada-vsawc",
+      },{id: "news-trophy-awarded-the-2023-vsawc-founders-circle-award-for-the-best-conference-presentation-by-an-emerging-scholar",
+          title: ':trophy: Awarded the 2023 VSAWC Founders’ Circle Award for the best conference presentation...',
+          description: "",
+          section: "News",},{id: "news-green-book-presented-maternity-and-maternal-loss-navigating-pregnant-bodies-in-the-mid-century-victorian-novel-at-victorian-nature-and-artifice-victorian-studies-association-of-western-canada-vsawc",
           title: ':green_book: Presented “Maternity and Maternal Loss: Navigating Pregnant Bodies in the Mid-Century Victorian...',
           description: "",
           section: "News",},{id: "news-closed-book-published-friend-in-need-cultivating-homosocial-communities-in-love-story-magazine-s-fiction-and-editorial-departments-in-the-journal-of-american-culture-vol-47-no-3-pp-199-206",
