@@ -393,8 +393,8 @@ ninja.data = [{
             window.location.href = "/blog/2015/formatting-and-links/";
           
         },
-      },{id: "news-green-book-gave-a-paper-at-the-victorian-studies-association-of-western-canada-vsawc-conference-victorian-nature-and-artifice",
-          title: ':green_book: Gave a paper at the Victorian Studies Association of Western Canada (VSAWC)...',
+      },{id: "news-green-book-presented-maternity-and-maternal-loss-navigating-pregnant-bodies-in-the-mid-century-victorian-novel-at-victorian-nature-and-artifice-victorian-studies-association-of-western-canada-vsawc",
+          title: ':green_book: Presented “Maternity and Maternal Loss: Navigating Pregnant Bodies in the Mid-Century Victorian...',
           description: "",
           section: "News",},{id: "news-closed-book-article-on-love-story-magazine-published-in-the-journal-of-american-culture",
           title: ':closed_book: Article on Love Story Magazine published in The Journal of American Culture....',
