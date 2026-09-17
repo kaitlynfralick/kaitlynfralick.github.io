@@ -64,18 +64,29 @@ i.icondepartment {
   margin-right: 0.3rem;
 }
 
-table.institution {
+/*****************************
+ * CV TIME_TABLE customization
+ *****************************/
+
+table.table-cv {
   border: none !important;
   box-shadow: none !important;
-  margin-bottom: 0.75rem;
   background: transparent !important;
+}
+
+table.table-cv td,
+table.table-cv th {
+  border: none !important;
+  box-shadow: none !important;
+  background: transparent !important;
+}
+
+table.institution {
+  margin-bottom: 0.75rem;
 }
 
 table.institution td,
 table.institution th {
-  border: none !important;
-  box-shadow: none !important;
-  background: transparent !important;
   padding: 0.15rem 0.5rem 0.15rem 0;
 }
 
