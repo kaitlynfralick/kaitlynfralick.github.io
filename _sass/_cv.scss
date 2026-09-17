@@ -241,3 +241,17 @@ ul.timeline li::before {
      color: var(--global-text-color);
 }
 */
+
+/*****************************
+ * CV section and entry boxes
+ *****************************/
+
+.cv .card {
+  border: none !important;
+  box-shadow: none !important;
+}
+
+.cv .list-group-item {
+  border: none !important;
+  background: transparent !important;
+}
