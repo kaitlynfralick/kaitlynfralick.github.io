@@ -255,3 +255,33 @@ ul.timeline li::before {
   border: none !important;
   background: transparent !important;
 }
+
+/*****************************
+ * CV section headings and lists
+ *****************************/
+
+.cv .card-title {
+  font-size: 1rem !important;
+  background-color: var(--global-code-bg-color);
+  padding: 0.4rem 0.6rem;
+  margin-bottom: 1rem;
+}
+
+.cv .list-group-item {
+  border: none !important;
+  background: transparent !important;
+}
+
+.cv .list-group-item .row {
+  margin-bottom: 0.75rem;
+}
+
+.cv .card-text > li {
+  padding-left: 1.5rem;
+  text-indent: -1.5rem;
+  margin-bottom: 0.75rem;
+}
+
+.cv .items {
+  padding-left: 1.5rem;
+}
