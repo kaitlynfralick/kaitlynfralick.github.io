@@ -25,6 +25,13 @@
       description:
         - "Major: English Language and Literature"
         - "Minor: News Studies"
+        
+- title: Publications
+  type: list
+  contents:
+    - "Fralick, Kaitlyn. “Literary Upcycling Across the Irish and English Press: J. Sheridan Le Fanu’s <i>Checkmate</i> (1870–1), Sensation Fiction, and the Conditions of Periodical Publication.” <i>Victorian Popular Fictions Journal</i>, vol. 8, no. 1, 2026, pp. 92–105."
+    - "Chapman, Alison, Martin Holmes, Kaitlyn Fralick, Kailey Fukushima, Narges Montakhabi, and Sonja Pinto. “Browse, Search and Serendipity: Building Approachable Digital Editions.” <i>Digital Editing and Publishing in the Twenty-First Century</i>, edited by James O’Sullivan, Michael Pidd, Michael Kurzmeier, Orla Murphy, Bridgette Wessels, and Sophie Whittle, Scottish Universities Press, 2025, pp. 89–107."
+    - "Fralick, Kaitlyn. “‘Friend in Need’: Cultivating Homosocial Communities in <i>Love Story Magazine</i>’s Fiction and Editorial Departments.” <i>The Journal of American Culture</i>, vol. 47, no. 3, 2024, pp. 99–107."
 
 - title: Research Project Contributions
   type: time_table
