@@ -68,16 +68,17 @@ i.icondepartment {
  * CV TIME_TABLE customization
  *****************************/
 
-table.table-cv {
-  border: none !important;
-  box-shadow: none !important;
-  background: transparent !important;
-}
-
+table.table-cv,
+table.table-cv tr,
 table.table-cv td,
 table.table-cv th {
-  border: none !important;
+  border: 0 !important;
+  border-top: 0 !important;
+  border-right: 0 !important;
+  border-bottom: 0 !important;
+  border-left: 0 !important;
   box-shadow: none !important;
+  outline: none !important;
   background: transparent !important;
 }
 
