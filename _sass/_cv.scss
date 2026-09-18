@@ -73,22 +73,55 @@ table.table-cv tr,
 table.table-cv td,
 table.table-cv th {
   border: 0 !important;
-  border-top: 0 !important;
-  border-right: 0 !important;
-  border-bottom: 0 !important;
-  border-left: 0 !important;
   box-shadow: none !important;
-  outline: none !important;
   background: transparent !important;
 }
 
+/* Plain dates instead of coloured badges */
+
+.cv table.table-cv .badge {
+  background: transparent !important;
+  color: var(--global-text-color) !important;
+  padding: 0 !important;
+  min-width: 0 !important;
+  border-radius: 0 !important;
+  box-shadow: none !important;
+  font-weight: 400 !important;
+  text-transform: none !important;
+}
+
+/* Align dates to the left */
+
+.cv .col-md-2.text-center {
+  text-align: left !important;
+}
+
+/* Remove institution icons */
+
+.cv .iconinstitution {
+  display: none !important;
+}
+
+.cv table.institution td.institution:first-child {
+  display: none !important;
+}
+
+/* Tighten the institution line */
+
 table.institution {
-  margin-bottom: 0.75rem;
+  margin-bottom: 0.35rem;
 }
 
 table.institution td,
 table.institution th {
-  padding: 0.15rem 0.5rem 0.15rem 0;
+  padding: 0.05rem 0.5rem 0.05rem 0 !important;
+}
+
+/* Tighten each time-table entry */
+
+.cv .list-group-item {
+  padding-top: 0.35rem !important;
+  padding-bottom: 0.35rem !important;
 }
 
 td.department {
