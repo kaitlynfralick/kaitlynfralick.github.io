@@ -277,10 +277,20 @@ ul.timeline li::before {
   margin-bottom: 0.4rem;
 }
 
+.cv .card-text {
+  margin-top: 0 !important;
+  margin-bottom: 0 !important;
+}
+
 .cv .card-text > li {
-  padding-left: 1.5rem;
-  text-indent: -1.5rem;
-  margin-bottom: 0.4rem;
+  padding-left: 2rem;
+  text-indent: -2rem;
+  margin-bottom: 0.2rem !important;
+}
+
+.cv .items {
+  margin-top: 0 !important;
+  margin-bottom: 0 !important;
 }
 
 .cv .items {
