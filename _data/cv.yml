@@ -1,8 +1,11 @@
-- title: General Information
-  type: map
+- title: Research Interests
+  type: list
   contents:
-    - name: Full Name
-      value: Kaitlyn Fralick
+    - Nineteenth-century literature and culture
+    - Victorian periodical press
+    - Print and publishing culture
+    - Irish and English literary relations
+    - Digital humanities
 
 - title: Education
   type: time_table
